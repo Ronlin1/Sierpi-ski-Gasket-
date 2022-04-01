@@ -19,7 +19,7 @@ def sier(size, order):
             backward(size)
             left(120)
             
-sier(100,5)  
+sier(100,4)  
 window = Screen()      
 window.exitonclick()
 
